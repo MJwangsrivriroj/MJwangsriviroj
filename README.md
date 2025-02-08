@@ -14,8 +14,8 @@
 ---
 
 ## 📂 **Projects**  
-🚀 **[Stress Level Prediction]([README.md](https://github.com/MJwangsrivriroj/Stress-Level-Prediction-for-Engineering-Students)** – Predicting stress levels using physiological data.  
-📊 **[Customer Churn Prediction](GitHub_Link)** – Machine learning model for customer retention analysis.  
+🚀 **[Stress Level Prediction](https://github.com/MJwangsrivriroj/Stress-Level-Prediction-for-Engineering-Students)** – Predicting stress levels using physiological data.  
+📊 **[Customer Churn Prediction](GitHub_Link)** – Machine learning model for customer retention analysis.
 
 ---
 
