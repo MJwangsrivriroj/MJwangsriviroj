@@ -21,6 +21,9 @@
 📊 **[Customer Churn Prediction (Full Version)](https://github.com/MJwangsrivriroj/Customer-Churn-Prediction-with-Resampling-Techniques)** – Full version of the project with multiple files (README, CSV, IPython Notebook, HTML).
 
 ---
+## 🔧 **Upcoming Projects**
+
+I'm currently working on some exciting projects, including an SQL-based project. Stay tuned for updates, as I will be sharing more details and progress soon!
 
 ## 🌍 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/munchootsorn/)  
