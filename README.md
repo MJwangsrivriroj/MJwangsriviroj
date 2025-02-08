@@ -15,6 +15,7 @@
 
 ## 📂 **Projects**  
 🚀 **[Stress Level Prediction](https://github.com/MJwangsrivriroj/Stress-Level-Prediction-for-Engineering-Students)** – Predicting stress levels using physiological data.  
+
 📊 **[Customer Churn Prediction (Google Colab)](https://github.com/MJwangsrivriroj/MJwangsriviroj/blob/main/Customer_Churn_Prediction.ipynb)** – Machine learning model for customer retention analysis (direct from Google Colab).
 
 📊 **[Customer Churn Prediction (Full Version)](https://github.com/MJwangsrivriroj/Customer-Churn-Prediction-with-Resampling-Techniques)** – Full version of the project with multiple files (README, CSV, IPython Notebook, HTML).
