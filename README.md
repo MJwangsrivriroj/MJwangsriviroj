@@ -14,7 +14,7 @@
 ---
 
 ## 📂 **Projects**  
-🚀 **[Stress Level Prediction](GitHub_Link)** – Predicting stress levels using physiological data.  
+🚀 **[Stress Level Prediction](README.md)** – Predicting stress levels using physiological data.  
 📊 **[Customer Churn Prediction](GitHub_Link)** – Machine learning model for customer retention analysis.  
 
 ---
